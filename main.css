@@ -1,5 +1,6 @@
 body {
   font-family: Roboto, sans-serif;
+  background-color:#f0f8ff; /* Цвет фона веб-страницы */
 }
 
 .container {
@@ -32,11 +33,13 @@ a::after {
 
 h1 {
   font-size: 2em;
+  color: #a52a2a; /* Цвет заголовка */
 }
 
 h2 {
   font-size: 1.5em;
   margin: 1.25em 0;
+  color: #a52a2a; /* Цвет заголовка */
 }
 
   /* Свойства фотографии*/
